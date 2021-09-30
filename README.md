@@ -1,20 +1,20 @@
 <HTML>
 <HEAD>
 <TITLE> El blog de Nand0B3rt0n3 </TITLE>
-<META>PROGRAMACION, HTML, KOTLIN, CSS</META>
+<META>PROGRAMACION, HTML, JAVASCRIPT_REACT, KOTLIN, CSS</META>
 </HEAD>
 <BODY>
-<P>
-- 👋 Hola a tod@s, Soy @Nand0B3rt0n3
+<DIV>
+- 👋 Hola coders, Soy @Nand0B3rt0n3
 - 👀 Estoy interesado en trabajar en proyectos nuevos.
-- 🌱 Ahora estoy reciclandome con codigos nuevos como Kotlin.
+- 🌱 Ahora estoy reciclandome con codigos nuevos como Kotlin y Angular.
 - 💞️ TELETRABAJO Y COWORKING
-- 📫 SIEMPRE NUEVOS RETOS
-</P>
-<P>
+- 📫 SIEMPRE DISPUESTO A NUEVOS RETOS
+</DIV>
+<DIV>
 <!---
 NO DUDEIS EN CONTACTARME
 --->
-</P>
+</DIV>
 </BODY>
 </HTML>
