@@ -7,8 +7,8 @@
 <DIV>
 - 👋 Hola coders, Soy @Nand0B3rt0n3
 - 👀 Estoy interesado en trabajar en proyectos nuevos.
-- 🌱 Ahora estoy reciclandome con codigos nuevos como Kotlin y Angular.
-- 💞️ TELETRABAJO Y COWORKING
+- 🌱 Ahora estoy reciclandome con codigos nuevos como Solidity, Python.
+- 💞️ TELETRABAJO / HIBRIDO
 - 📫 SIEMPRE DISPUESTO A NUEVOS RETOS
 </DIV>
 <DIV>
