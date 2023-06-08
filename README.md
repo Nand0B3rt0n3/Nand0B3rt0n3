@@ -1,9 +1,9 @@
 <HTML>
 <HEAD>
-<TITLE> El blog de Nand0B3rt0n3 </TITLE>
 <META>PROGRAMACION, HTML, JAVASCRIPT_REACT, KOTLIN, CSS</META>
 </HEAD>
 <BODY>
+  <p><h1> El blog de Nand0B3rt0n3</h1>
 <DIV>
 - 👋 Hola coders, Soy @Nand0B3rt0n3
 - 👀 Estoy interesado en trabajar en proyectos nuevos.
