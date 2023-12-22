@@ -6,9 +6,9 @@
   <p><h1> El blog de Nand0B3rt0n3</h1>
 <DIV>
 - 👋 Hola coders, Soy @Nand0B3rt0n3
-- 👀 Estoy interesado en trabajar en proyectos nuevos.
-- 🌱 Ahora estoy reciclandome con codigos nuevos como Solidity, Python.
-- 💞️ TELETRABAJO / HIBRIDO
+- 👀 Me apasionan los proyectos internacionales y siento una gran curiosodad por cada nueva tecnologia en desarrollo.
+- 🌱 Ahora estoy reciclandome con codigos nuevos como Solidity, Python y tecnologias como Machine Learning y Neural Networks.
+- 💞️ TELETRABAJO 
 - 📫 SIEMPRE DISPUESTO A NUEVOS RETOS
 </DIV>
 <DIV>
